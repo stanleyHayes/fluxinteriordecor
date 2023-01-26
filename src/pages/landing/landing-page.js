@@ -417,7 +417,7 @@ const LandingPage = () => {
                         }}>
                         <Box sx={{mb: 8}}>
                             <Container maxWidth="xl">
-                                <Typography variant="h5" align="center" sx={{color: 'text.primary', mb: 4}}>
+                                <Typography variant="h4" align="center" sx={{color: '#111111', mb: 4}}>
                                     Contact Us
                                 </Typography>
                                 <Grid container={true} spacing={4}>
@@ -431,7 +431,7 @@ const LandingPage = () => {
                                                     borderBottomLeftRadius: 32,
                                                     borderTopLeftRadius: 32,
                                                     height: '100%',
-                                                    backgroundColor: "rgba(255, 255, 255, 0.4)",
+                                                    backgroundColor: "rgba(0, 0, 0, 0.4)",
                                                     backdropFilter: "blur(10px)"
                                                 }}>
                                                 <CardContent>
@@ -476,7 +476,7 @@ const LandingPage = () => {
                                                     borderBottomLeftRadius: 32,
                                                     borderTopLeftRadius: 32,
                                                     height: '100%',
-                                                    backgroundColor: "rgba(255, 255, 255, 0.4)",
+                                                    backgroundColor: "rgba(0, 0, 0, 0.4)",
                                                     backdropFilter: "blur(10px)"
                                                 }} variant="outlined">
                                                 <CardContent>
@@ -521,7 +521,7 @@ const LandingPage = () => {
                                                     borderBottomLeftRadius: 32,
                                                     borderTopLeftRadius: 32,
                                                     height: '100%',
-                                                    backgroundColor: "rgba(255, 255, 255, 0.4)",
+                                                    backgroundColor: "rgba(0, 0, 0, 0.4)",
                                                     backdropFilter: "blur(10px)"
                                                 }} variant="outlined">
                                                 <CardContent>
