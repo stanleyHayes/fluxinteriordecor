@@ -15,7 +15,7 @@ const CoreValue = ({value}) => {
             }}>
             <CardContent>
                 <Typography
-                    sx={{color: 'primary.main', textTransform: "capitalize"}}
+                    sx={{color: 'primary.secondary', textTransform: "capitalize"}}
                     variant="h5"
                     align="center">{value.name}</Typography>
             </CardContent>
